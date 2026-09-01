@@ -1,6 +1,6 @@
 # Blind 75 Challenge 🚀
 
-Welcome to my **Blind 75 Challenge** — a focused journey through 75 essential coding problems commonly used to strengthen **Data Structures & Algorithms** and prepare for technical interviews.
+Welcome to my **Blind 75 Challenge** - a focused journey through 75 essential coding problems commonly used to strengthen **Data Structures & Algorithms** and prepare for technical interviews.
 
 I will be solving every problem in **both Java and Python**, focusing not just on getting the correct answer, but also on understanding the approach, recognizing patterns, and improving problem-solving skills.
 
@@ -85,12 +85,9 @@ The same problem will be implemented in both **Java and Python** to develop fami
 
 The ultimate goal of this challenge is to become more confident with DSA, improve logical thinking, and build a strong foundation for **technical interviews and competitive programming**.
 
-> **75 problems. 2 languages. 1 goal — become better at problem solving. 🚀**
+> **75 problems. 2 languages. 1 goal - become better at problem solving. 🚀**
 
 ---
 
-## ⭐ Challenge Started
-
-**Problem #1 — Two Sum**
 
 Let's begin. 💻🔥
