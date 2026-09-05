@@ -2,7 +2,7 @@
 
 Welcome to my **Blind 75 Challenge** - a focused journey through 75 essential coding problems commonly used to strengthen **Data Structures & Algorithms** and prepare for technical interviews.
 
-I will be solving every problem in **both Java and Python**, focusing not just on getting the correct answer, but also on understanding the approach, recognizing patterns, and improving problem-solving skills.
+I will be solving every problem in ** Java **, focusing not just on getting the correct answer, but also on understanding the approach, recognizing patterns, and improving problem-solving skills.
 
 ---
 
@@ -22,13 +22,6 @@ Used to strengthen:
 - Collections Framework
 - Efficient implementation
 - Interview-style coding
-
-### 🐍 Python
-Used to strengthen:
-- Clean and concise implementations
-- Built-in data structures
-- Rapid problem solving
-- Algorithmic thinking
 
 ---
 
