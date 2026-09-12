@@ -1,5 +1,3 @@
-# JAVA
-
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
