@@ -1,4 +1,3 @@
-#  JAVA
 import java.util.HashMap;
 
 class Solution {
