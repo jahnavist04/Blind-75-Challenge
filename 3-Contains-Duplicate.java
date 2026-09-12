@@ -1,5 +1,3 @@
-# JAVA
-
 import java.util.HashSet;
 
 class Solution {
